@@ -16,5 +16,10 @@ namespace TestProject
         {
             Console.WriteLine("Hui");
         }
+
+        public static void Hyi()
+        {
+            int a = 2;
+        }
     }
 }
