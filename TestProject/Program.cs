@@ -12,5 +12,9 @@ namespace TestProject
         {
             SayHello();
         }
+        public void Hui()
+        {
+            Console.WriteLine("Hui");
+        }
     }
 }
