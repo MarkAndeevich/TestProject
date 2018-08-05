@@ -12,5 +12,10 @@ namespace TestProject
         {
             SayHello();
         }
+
+        public static void Hyi()
+        {
+            int a = 2;
+        }
     }
 }
